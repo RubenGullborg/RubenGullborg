@@ -1,15 +1,15 @@
 ## Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 ```javascript
 const Ruben = {
-  pronouns: "He" | "Him",
-  code: [Javascript, Typescript, HTML, CSS, Python, C++],
-  tools: [NextJS, React],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  pronouns: "He/Him",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "C++"],
+  tools: ["Next.js", "React"],
+  architecture: ["Microservices", "Event-Driven", "Design Systems"],
   techCommunities: {
-                        Organization: "Rapid ApS",
-                      },
- challenge: "Focused on Nextjs and typescript"
-}
+    organization: "Rapid ApS"
+  },
+  challenge: "Currently diving deep into Next.js and TypeScript."
+};
 ```
 <!--
 **RubenGullborg/RubenGullborg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
