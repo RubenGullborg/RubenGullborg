@@ -4,26 +4,26 @@ const Ruben = {
   pronouns: "He/Him",
   code: ["JavaScript", "TypeScript", "HTML5", "CSS", "Python", "C++"],
   tools: ["Next.js", "React", ".NET", "TailwindCSS"],
-  expertise: ["Software Design", "SOLID Principles", "UI/UX"],
+  expertise: ["Design", "SOLID", "UI/UX"],
   interests: [
-    "Web Development", 
-    "Crypto",
-    "CS2",
-    "Other new tech I don't have time for"
+    "Web Development",
+    "Design principles"
+    "Animations",
+    "Simplicity"
   ],
   techCommunities: {
     organization: ["Rapid ApS (Co-founder)", "Netcompany (Intern)"]
   },
-  education: "Currently studying for a Bachelor of Engineering in Software Engineering at Aarhus University.",
-  projects: "To build a UI Kit for reusable website sections.",
+  education: "Pursuing a Bachelor of Engineering in Software at Aarhus University.",
+  projects: "To bring simple design back to the people",
   futureLearningGoals: [
     "Godot & Unity (because making games sounds way more fun than debugging compiler errors)",
-    "Getting into Machine Learning before AI takes all our jobs.",
-    "Rust (so I can flex on people who use garbage collection)", 
-    "Explore Remix to see if it's actually better than Next.js or just another framework hype train.",
+    "Getting into Machine Learning before AI takes my job",
+    "Rust, flex on people who use garbage collection", 
+    "Check if Remix is actually better than Next.js or just another hype train.",
     "Give Go a go"
     "Framer motion & GSAP",
-    "Actually write tests instead of just hoping my code works (TDD maybe?...)"
+    "Actually write tests instead of just hoping my code works (TDD?...)"
   ],
   willNeverTouchAgain: ["Bootstrap", "MAUI", "XAML (Why does this even exist?)",
 "],
