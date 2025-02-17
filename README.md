@@ -1,8 +1,8 @@
 ## Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 ```javascript
 const Ruben = {
-  pronouns: "He/Him",
-  code: ["JavaScript", "TypeScript", "HTML5", "CSS", "Python", "C++"],
+  pronouns: "Him",
+  code: ["JavaScript", "TypeScript", "HTML5", "CSS", "Python", "C#", "C++"],
   tools: ["Next.js", "React", ".NET", "TailwindCSS"],
   expertise: ["Design", "SOLID", "UI/UX"],
   interests: [
