@@ -22,8 +22,8 @@ const Ruben = {
     "Rust, flex on people who use garbage collection", 
     "Check if Remix is actually better than Next.js or just another hype train.",
     "Give Go a go"
-    "Framer motion, Unicorn studio & Rive",
-    "Actually write tests instead of just hoping my code works (TDD?...)"
+    "Framer motion, Unicorn studio, d3js & Rive",
+    "Actually write tests instead of just hoping my code works (TDD?)"
   ],
   willNeverTouchAgain: ["Bootstrap", "MAUI", "XAML (Why does this even exist?)",
 "],
