@@ -6,8 +6,9 @@ const Ruben = {
   code: [
     "JavaScript", "TypeScript", "HTML5", "CSS", 
     "Python", "C#", "C++", 
-    "Danish (native)", "English (fluent)", "Sarcasm (expert)"
+    "Danish (native)", "English (fluent)"
   ],
+
   tools: ["Next.js", "React", "Vue", ".NET", "TailwindCSS"],
    // Things I'm actually good at
   expertise: [
@@ -16,15 +17,13 @@ const Ruben = {
     "UI/UX",
     "Explaining technical concepts to non-technical people"
   ],
+
   interests: [
     "Web Development",
     "Design"
     "Animation",
     "Simplicity"
   ],
-  techCommunities: {
-    organization: ["Rapid ApS (Co-founder)", "Netcompany (Intern)"]
-  },
 
   // Formal brain training
   education: "Pursuing a Bachelor of Engineering in Software at Aarhus University.",
