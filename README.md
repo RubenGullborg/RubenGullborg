@@ -4,12 +4,12 @@ const Ruben = {
   pronouns: "Him",
   // Languages I speak, both to humans and computers
   code: [
-    "JavaScript", "TypeScript", "HTML5", "CSS", 
-    "Python", "C#", "C++", 
+    "JavaScript/TypeScript", 
+    "Python", "C++", "C#", 
     "Danish (native)", "English (fluent)"
   ],
 
-  tools: ["Next.js", "React", "Vue", ".NET", "TailwindCSS"],
+  tools: ["Next.js", "React", "Vue", ".NET", "Astro", "TailwindCSS"],
    // Things I'm actually good at
   expertise: [
     "Design Systems (making buttons look the same everywhere)",
