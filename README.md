@@ -55,7 +55,7 @@ const Ruben = {
     "XAML (Why does this even exist?)",
     "Microsoft Dynamics 365 CRM",
     "Legacy PHP codebases",
-    "VIM..." (I'm still stuck)
+    "VIM... (I'm still stuck)"
     ],
 };
 ```
