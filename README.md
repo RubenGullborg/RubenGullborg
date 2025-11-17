@@ -5,11 +5,11 @@ const Ruben = {
   // Languages I speak, both to humans and computers
   code: [
     "JavaScript/TypeScript", 
-    "Python", "C++", "C#", 
-    "Danish (native)", "English (fluent)"
+    "Python", C, "C++", "C#", 
+    "Danish (native)", "English (fluent), Spanish (garbage)"
   ],
 
-  tools: ["Next.js", "React", "Vue", ".NET", "Astro", "TailwindCSS", "Angular"],
+  tools: ["Next.js", "React", "Vue", ".NET", "Astro", "Angular"],
    // Things I'm actually good at
   expertise: [
     "Design Systems (making buttons look the same everywhere)",
@@ -22,37 +22,40 @@ const Ruben = {
     "Web Development",
     "Design theory"
     "De-centralization",
+    "Optimization",
+    ""
   ],
 
   // Formal brain training
-  education: "Pursuing a Bachelor's degree in Software Engineering at Aarhus University.",
+  education: "Currently pursuing a degree in Software Engineering at Aarhus University, Denmark.",
 
   // When not coding
   hobbies: [
     "Overthinking simple design decisions",
     "Caring too much about bread",
-    "Digital art and photography",
-    "Exploring human innovation, design- & game theory, psychology of success through books",
+    "Exploring human innovation, design- & game theory",
     "Playing strategy games, shooters and indie titles",
     "Maintaining a carefully curated Spotify coding playlist",
   ],
 
-  futureLearningGoals: [
-    "Godot & Unity, make game instead of debug compiler errors",
+  learning_goals: [
+    "Keras, TensorFlow and CUDA",
+    "Understand Transformers and their attention mechanisms better",
+    "Build my own CNN",
+    "Rust, either learn memory management or die trying", 
+    "Swift",
     "Framer motion, Unicorn studio, d3js & Rive",
-    "Machine Learning and AI. If you can't beat them, join them",
-    "Rust, to pretend to understand memory management & flex on people who use garbage collection", 
-    "Build an app with Swift",
+    "Godot & Unity",
   ],
 
   // Tech I've divorced
-  willNeverTouchAgain: [
+  never_again: [
     "Bootstrap", 
     "MAUI", 
     "XAML (Why does this even exist?)",
-    "Microsoft Dynamics 365 CRM customization",
+    "Microsoft Dynamics 365 CRM",
     "Legacy PHP codebases",
-    "VIM..."
+    "VIM..." (I'm still stuck)
     ],
 };
 ```
