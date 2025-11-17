@@ -5,7 +5,7 @@ const Ruben = {
   // Languages I speak, both to humans and computers
   code: [
     "JavaScript/TypeScript", 
-    "Python", C, "C++", "C#", 
+    "Python", "C", "C++", "C#", 
     "Danish (native)", "English (fluent), Spanish (garbage)"
   ],
 
