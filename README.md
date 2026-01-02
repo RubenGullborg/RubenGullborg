@@ -2,6 +2,7 @@
 ```javascript
 const Ruben = {
   pronouns: "Him",
+
   // Languages I speak, both to humans and computers
   code: [
     "JavaScript/TypeScript", 
@@ -9,13 +10,17 @@ const Ruben = {
     "Danish (native)", "English (fluent), Spanish (garbage)"
   ],
 
-  tools: ["Next.js", "React", "Vue", ".NET", "Astro", "Angular"],
+  tools: [
+    "Next.js", "React", "Vue",
+    ".NET", "Astro", "Angular"
+  ],
+
    // Things I'm actually good at
   expertise: [
-    "Design Systems (making buttons look the same everywhere)",
-    "Writing code i'll hate in 6 months",
-    "UI/UX",
     "Explaining technical concepts to non-technical people"
+    "Design Systems, aka making buttons look the same everywhere",
+    "UI/UX",
+    "Writing code i'll hate in 6 months",
   ],
 
   interests: [
@@ -23,7 +28,7 @@ const Ruben = {
     "Design theory"
     "De-centralization",
     "Optimization",
-    ""
+    "Open-source",
   ],
 
   // Formal brain training
@@ -32,18 +37,18 @@ const Ruben = {
   // When not coding
   hobbies: [
     "Overthinking simple design decisions",
+    "Maintaining a carefully curated Spotify coding playlist",
     "Caring too much about bread",
     "Exploring human innovation, design- & game theory",
     "Playing strategy games, shooters and indie titles",
-    "Maintaining a carefully curated Spotify coding playlist",
   ],
 
   learning_goals: [
     "Keras, TensorFlow and CUDA",
     "Understand Transformers and their attention mechanisms better",
-    "Build my own CNN",
+    "Building my own CNN",
     "Rust, either learn memory management or die trying", 
-    "Swift",
+    "Swift + SwiftUI",
     "Framer motion, Unicorn studio, d3js & Rive",
     "Godot & Unity",
   ],
